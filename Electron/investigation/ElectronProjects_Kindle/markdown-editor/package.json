@@ -1,0 +1,17 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=true electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.2",
+    "electron-builder": "^23.3.3",
+    "simplemde": "^1.11.2"
+  }
+}

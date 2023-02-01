@@ -1,0 +1,19 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "This is the tutorial on:",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}

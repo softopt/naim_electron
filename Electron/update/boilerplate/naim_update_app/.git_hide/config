@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+	hooksPath = .husky
+[remote "origin"]
+	url = https://github.com/electron-react-boilerplate/electron-react-boilerplate
+	fetch = +refs/heads/main:refs/remotes/origin/main
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main

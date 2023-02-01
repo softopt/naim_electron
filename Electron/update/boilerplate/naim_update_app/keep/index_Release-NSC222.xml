@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Upgrade>
+<App Release="5000000.7910.1490.0x7ba49f">
+	<Location>sfupdate-MS66-rc54_5.0.0.1490_5.0.0.7910_7ba49f_Release-5.0.0</Location>
+	<RelDate>30-06-2022</RelDate>
+	<RootfsRelease>5.0.0.1490</RootfsRelease>
+	<AppRelease>5.0.0.7910</AppRelease>
+	<ArmConfig>Release-5.0.0</ArmConfig>
+	<Readme>
+First production release for NSC 222
+	</Readme>
+	<MinPrev>0.0.0.0</MinPrev>
+	<MaxPrev>0x7fffffff.0x7fffffff.0x7fffffff.0x7fffffff</MaxPrev>
+	<Forced>false</Forced>
+</App>
+</Upgrade>

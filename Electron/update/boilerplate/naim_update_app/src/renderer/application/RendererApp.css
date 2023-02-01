@@ -1,0 +1,91 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #e0e9f5;
+}
+
+main {
+  margin-top: 7rem;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+p {
+  color: #042b5f;
+}
+
+p {
+  margin : 20px;
+  text-align: center;
+}
+
+.msg-button {
+  border-radius: 12px;
+  background-color: #044599;
+  color: white;
+  font-size: large;
+  height: 60px;
+  width: 350px;
+  margin: 10px;
+}
+
+.msg-status {
+  font-size: 24pt
+}
+
+.msg-action {
+  font-size: 18pt;
+}
+
+.msg-prompt {
+  font-size: 14pt;
+}
+
+.msg-details {
+  background-color: bisque;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 90%;
+  resize: none;
+}
+.msg-div {
+  text-align: center;
+}
+
+.msg-details-div {
+  background-color: bisque;
+  border-radius: 5px;
+  border-style: solid;
+  box-sizing: border-box;
+  resize: none;
+  margin: 50px;
+  line-height: 5px;
+}
+
+.msg-details__bold {
+  font-weight: bold;
+  text-align: left;
+}
+
+.msg-details__bug {
+  font-weight:normal;
+  text-align: left;
+}
+
+.msg-details__feature {
+  font-weight:normal;
+  font-style: italic;
+  text-align: left;
+}

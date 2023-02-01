@@ -1,0 +1,9 @@
+.trace-log {
+    width: 20em;
+}
+
+.trace-log__text {
+    display: flex;
+    border-radius: 8px;
+    background-color: #00ff00;
+}

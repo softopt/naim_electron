@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Upgrade>
+	<Package name="Release-3.1.1" release="" reldate="2022-09-21" location="NonStreamers/Release-3.1.1.zip">
+		<Component name="App" release="3.1.1.28083" location="ARMHost/Host/App-3.1.1.28083.hex"/>
+		<Component name="BSL1" release="3.1.1.28083" location="ARMHost/Host/BSL1-3.1.1.28083.hex"/>
+		<Component name="BSL2" release="3.1.1.28083" location="ARMHost/Host/BSL2-3.1.1.28083.bin"/>
+		<ReleaseNotes/>
+	</Package>
+</Upgrade>

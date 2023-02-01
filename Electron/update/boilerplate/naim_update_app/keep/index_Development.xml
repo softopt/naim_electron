@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Upgrade>
+<App Release="0000000.8187.1564.0x9b4ca2">
+	<Location>MS66-rc55_0.0.0.1564_0.0.0.8187_9b4ca2_Development.sfu</Location>
+	<RelDate>16-09-2022</RelDate>
+	<RootfsRelease>0.0.0.1564</RootfsRelease>
+	<AppRelease>0.0.0.8187</AppRelease>
+	<ArmConfig>Development</ArmConfig>
+	<Readme>
+	
+	Leo Changes
+-----------
+- Merge branch &apos;FW-6028_StopWhenStreamerSelected&apos; [alexjeffrey, c3b1c79]
+- FW-6028: Stop when streamer pre-amp input selected [alexjeffrey, 3a8b14e]
+	</Readme>
+	<MinPrev>0.0.0.0</MinPrev>
+	<MaxPrev>0x7fffffff.0x7fffffff.0x7fffffff.0x7fffffff</MaxPrev>
+	<Forced>false</Forced>
+</App>
+</Upgrade>

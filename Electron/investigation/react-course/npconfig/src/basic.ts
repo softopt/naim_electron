@@ -1,0 +1,4 @@
+
+let fred : string = 'tom';
+
+

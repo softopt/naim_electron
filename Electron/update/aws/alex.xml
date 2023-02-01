@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Upgrade>
+	<Package name="Development" release="" reldate="2022-09-19" location="NonStreamers/Development.zip">
+		<Component name="App" release="0.0.0.29436" location="ARMHost/Host/App-0.0.0.29436.hex"/>
+		<Component name="BSL1" release="0.0.0.29436" location="ARMHost/Host/BSL1-0.0.0.29436.hex"/>
+		<Component name="BSL2" release="0.0.0.29436" location="ARMHost/Host/BSL2-0.0.0.29436.bin"/>
+		<Component name="Zigbee" release="2.0.2.0" location="ARMHost/Zigbee/NP800BridgeJN5168-2.0.2.0.image"/>
+		<ReleaseNotes/>
+	</Package>
+</Upgrade>
